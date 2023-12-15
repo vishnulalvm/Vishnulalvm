@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Mobile App**
 
-- 🌱 I’m currently learning **Flutter,Dart**
+- 🌱 I’m currently learning **Flutter, Dart & D.S**
 
-- 💬 Ask me about **HTML,CSS,Boostrap,Dart,Flutter,JS**
+- 💬 Ask me about **HTML, CSS, Boostrap, Dart, Flutter,JS**
 
 - 📫 How to reach me **vishnulalvm007@Gmail.com**
 
