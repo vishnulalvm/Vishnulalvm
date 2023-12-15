@@ -33,4 +33,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vishnulalvm&show_icons=true&locale=en" alt="vishnulalvm" /></p>
 
-<p><img align="center" margin top ="30px" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnulalvm&" alt="vishnulalvm" /></p>
+<p style="text-align: center; margin-top: 30px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnulalvm" alt="vishnulalvm" />
+</p>
+
